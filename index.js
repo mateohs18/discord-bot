@@ -239,4 +239,4 @@ const PORT = process.env.PORT || 3001;
 app.listen(PORT, () => {
   console.log(`\n🚀 Servidor de Kitson Kit escuchando en puerto ${PORT}`);
   loadBots();
-});
+})
